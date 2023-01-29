@@ -1,0 +1,6 @@
+{
+  "appTitle": "MH Clean Framework Sample",
+  "@appTitle": {
+    "description": "The title of the application"
+  }
+}
