@@ -1,0 +1,23 @@
+{
+  "homeTitle": "Jake Kendrick: MH Sample",
+  "detailsTitle": "Book Details",
+  "descriptionHeader": "Description",
+  "descriptionNotFoundWarning": "No description found",
+  "ratingsHeader": "Ratings",
+
+  "byAuthor": "by {name}",
+  "@byAuthor": {
+      "description": "Attribute a work to an author",
+      "placeholders": {
+          "name": {
+              "type": "String",
+              "example": "Roald Dahl"
+          }
+      }
+  },
+
+  "snackbarRefreshSucceeded": "Refreshed trending books successfully!",
+  "snackbarRefreshFailed": "Sorry, we couldn't refresh trending books.",
+  "loadingFailedMessage": "Oops, we couldn't connect to the network!",
+  "tryAgainMessage": "Try Again"
+}

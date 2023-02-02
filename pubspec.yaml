@@ -14,13 +14,27 @@ dependencies:
     sdk: flutter
   flutter_localizations:
     sdk: flutter
-  intl: any
+  clean_framework: ^2.0.4
+  clean_framework_router: ^0.4.0
+  dio: ^4.0.6
+  auto_size_text: ^3.0.0
+  flutter_rating_stars: ^1.0.3+4
+  percent_indicator: ^4.2.2
 
 dev_dependencies:
   flutter_test:
     sdk: flutter
-
   flutter_lints: ^2.0.0
+  clean_framework_test: ^0.4.1
+  mocktail: ^0.3.0
+  mocktail_image_network: ^0.3.1
+  riverpod: ^2.1.3
+  meta: ^1.8.0
+  import_sorter: ^4.6.0
+  dependency_validator: ^3.2.2
+
+import_sorter:
+  comments: false
 
 flutter:
   uses-material-design: true
